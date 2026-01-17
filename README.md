@@ -15,5 +15,6 @@
 
 ## Run Project
 ```bash
+cd react-ts-project
 npm install
 npm run dev
